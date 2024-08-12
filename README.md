@@ -1,2 +1,2 @@
 # ptanalyzer-cn
-ptanalyzer的汉化魔改版
+ptanalyzer的汉化版
