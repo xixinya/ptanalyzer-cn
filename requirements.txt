@@ -1,0 +1,1 @@
+pip install packaging requests colorama sty aenum
